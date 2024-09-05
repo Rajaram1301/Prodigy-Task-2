@@ -1,2 +1,1 @@
-# Prodigy-Task-2
-Stopwatch web application
+# PRODIGY_WD_02
